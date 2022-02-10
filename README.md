@@ -15,3 +15,5 @@ which tracks the progression of the new omicron COVID-19 variant.
 Application: https://share.streamlit.io/jonatasfontele/covid_streamlit/main/covid_streamlit.py
 
 It shows a graph of daily covid cases by variant or all variants and by country or all countries.
+
+To run locally: streamlit run covid_streamlit.py
