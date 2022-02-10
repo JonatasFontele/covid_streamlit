@@ -2,7 +2,7 @@
 Created a web application with Python and Streamlit using data from covid from https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
 which tracks the progression of the new omicron COVID-19 variant.
 
-* The data
+* The data until Jan 2022
    * location- this is the country for which the variants information is provided;
    * date - date for the data entry;
    * variant - this is the variant corresponding to this data entry;
