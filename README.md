@@ -9,7 +9,7 @@ which tracks the progression of the new omicron COVID-19 variant.
    * num_sequences - the number of sequences processed (for the country, variant and date);
    * perc_sequences - percentage of sequences from the total number of sequences (for the country, variant and date);
    * numsequencestotal - total number of sequences (for the country, variant and date);
-   * Acknowledgements
+   
 [100416 rows x 6 columns]
 
 Application: https://share.streamlit.io/jonatasfontele/covid_streamlit/main/covid_streamlit.py
