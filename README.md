@@ -1,5 +1,5 @@
 # covid_streamlit
-Creating a web application with Python and Streamlit using data from covid from https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
+Created a web application with Python and Streamlit using data from covid from https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
 which tracks the progression of the new omicron COVID-19 variant.
 
 * The data
