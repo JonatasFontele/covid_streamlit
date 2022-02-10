@@ -46,6 +46,10 @@ else:
 dfShow = df.groupby(by=["date"]).sum()
 
 # Cria figura
-fig = px.line(dfShow, x=dfShow.index, y='num_sequences')
+fig = px.line(dfShow, x=dfShow.index, y='num_sequences',
+              labels={
+                  dfShow.index: "Casos",
+                  'num_sequences': "Datas"
+              })
 fig.update_layout(title=titulo)
 st.plotly_chart(fig, use_container_width=True)
